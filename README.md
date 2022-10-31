@@ -1,3 +1,6 @@
+credits to https://github.com/iw4p/proxy-scraper
+
+
 # Proxy scraper and checker 
 
 Scrape more than 1K HTTP proxies in less than 2 seconds.
